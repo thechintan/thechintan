@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN stack and AI/ML.**
 
-- 💬 Ask me about **Full-Stack Development, Hackathons, Startup Ideas**
+- 💬 Ask me about **Full-Stack Development, Hackathons, Startup stuff**
 
 - 📫 How to reach me **chintanboghani99@gmail.com**
 
