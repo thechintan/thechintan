@@ -88,5 +88,5 @@ Active in hackathons, open source, and continuous learning.
 <!-- --- -->
 
 <p align="center">
-  <i>⚡ Fun fact I enjoy turning random ideas into working projects overnight.</i>
+  <i>⚡ <strong>Fun fact</strong> I enjoy turning random ideas into working projects overnight.</i>
 </p>
