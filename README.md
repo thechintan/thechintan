@@ -26,28 +26,28 @@
 
 ---
 
-## 🌌 About Me  
+## 👨‍💻 About Me  
 BTech CSE student building real-world products with MERN stack and AI/ML.
 Focused on building scalable systems, AI driven tools, automation platforms and solving practical problems.
 Active in hackathons, open source, and continuous learning.
 
 ---
 
-## 🪐 Profile Card  
+## 🪪 Profile Card  
 <p align="center">
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thechintan&" alt="thechintan" />
 </p>
 
 ---
 
-##  Tech Stack  
+## 🛠️ Tech Stack  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,redux,nodejs,express,mongodb,postgresql,sqlite,html,css,tailwind,docker,git" />
 </p>
 
 ---
 
-##  Working GitHub Stats  
+## 📊 Working GitHub Stats  
 <p align="center">
   <!-- <img src="https://nirzak-streak-stats.vercel.app/?user=thechintan&theme=tokyonight&hide_border=false" height="155" /> &nbsp; -->
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thechintan&layout=compact&langs_count=10&theme=algolia&hide=css,html" height="155"/>
@@ -55,7 +55,7 @@ Active in hackathons, open source, and continuous learning.
 
 ---
 
-##  Contribution Graph  
+## 📈 Contribution Graph  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thechintan&theme=react-dark&hide_border=true&radius=10"/>
 </p>
