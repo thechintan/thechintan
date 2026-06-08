@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thechintan&color=blueviolet" />
   <a href="mailto:chintanboghani99@gmail.com">
-    <img src="https://img.shields.io/badge/Email-chintanboghani%40gmail.com-blue?style=flat-square&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-chintanboghani99%40gmail.com-darkred?style=flat-square&logo=gmail" />
   </a>
   <a href="https://linkedin.com/in/chintanboghani">
     <img src="https://img.shields.io/badge/LinkedIn-chintanboghani-blue?style=flat-square&logo=linkedin" />
