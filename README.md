@@ -42,7 +42,7 @@ Active in hackathons, open source, and continuous learning.
 
 ## 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,redux,nodejs,express,mongodb,postgresql,sqlite,html,css,tailwind,docker,git" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,redux,nodejs,express,mongodb,postgresql,sqlite,html,css,tailwind,postman,docker,git,vscode" />
 </p>
 
 ---
