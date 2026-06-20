@@ -35,7 +35,7 @@ Active in hackathons, open source, and continuous learning.
 
 ## 🪪 Profile Card  
 <p align="center">
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thechintan&" alt="thechintan" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thechintan&theme=github_dark" width="900"/>
 </p>
 
 ---
@@ -49,8 +49,8 @@ Active in hackathons, open source, and continuous learning.
 
 ## 📊 Working GitHub Stats  
 <p align="center">
-  <!-- <img src="https://nirzak-streak-stats.vercel.app/?user=thechintan&theme=tokyonight&hide_border=false" height="155" /> &nbsp; -->
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thechintan&layout=compact&langs_count=10&theme=algolia&hide=css,html" height="155"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=thechintan&theme=tokyonight&border_radius=20" alt="GitHub Streak" /></a> &nbsp;
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thechintan&layout=compact&langs_count=10&theme=algolia&hide=css,html" height="160"/>
 </p>
 
 ---
