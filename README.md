@@ -33,12 +33,12 @@ Active in hackathons, open source, and continuous learning.
 
 ---
 
-## 🪪 Profile Card  
+<!-- ## 🪪 Profile Card  
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thechintan&theme=github_dark" width="900"/>
-</p>
+</p> 
 
----
+--- -->
 
 ## 🛠️ Tech Stack  
 <p align="center">
@@ -54,14 +54,14 @@ Active in hackathons, open source, and continuous learning.
 </p>
 
 ---
-
+<!--
 ## 📈 Contribution Graph  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thechintan&theme=react-dark&hide_border=true&radius=10"/>
 </p>
 
 
----
+---   -->
 
 <!-- ## 🛰️ What I Love Building
 - Backend APIs and high scale systems  
